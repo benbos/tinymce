@@ -1,0 +1,1 @@
+TinyMCE with smimage plugin.
